@@ -1,0 +1,55 @@
+{
+  "_from": "@4tw/cypress-drag-drop",
+  "_id": "@4tw/cypress-drag-drop@1.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-84iTfhFLTKk6yQavLM1bg/nzLKOCqolxamV8fal1y2aJ5abSSUdvjKcMUloA58/8ptoqp9AffmnCELzTQqb49A==",
+  "_location": "/@4tw/cypress-drag-drop",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@4tw/cypress-drag-drop",
+    "name": "@4tw/cypress-drag-drop",
+    "escapedName": "@4tw%2fcypress-drag-drop",
+    "scope": "@4tw",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@4tw/cypress-drag-drop/-/cypress-drag-drop-1.2.1.tgz",
+  "_shasum": "e17d9030235586477f3bf8d5270dea9333bfb807",
+  "_spec": "@4tw/cypress-drag-drop",
+  "_where": "D:\\cypress\\node_modules\\.bin",
+  "author": {
+    "name": "Kevin Bieri"
+  },
+  "bugs": {
+    "url": "https://github.com/4teamwork/cypress-drag-drop/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A cypress child command for drag'n'drop support.",
+  "homepage": "https://github.com/4teamwork/cypress-drag-drop#readme",
+  "keywords": [
+    "cypress",
+    "test",
+    "drag",
+    "drop",
+    "javascript"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "@4tw/cypress-drag-drop",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4teamwork/cypress-drag-drop.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "version": "1.2.1"
+}
